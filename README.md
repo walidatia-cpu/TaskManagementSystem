@@ -9,7 +9,7 @@ This is a **Task Management System API** built with **.NET 8**, **JWT Authentica
 
 ### **1️⃣ Prerequisites**
 Ensure you have the following installed:
-- **.NET 8 SDK** ([Download](https://dotnet.microsoft.com/en-us/download))
+- **.NET 9 SDK** ([Download](https://dotnet.microsoft.com/en-us/download))
 - **SQL Server** (LocalDB or SQL Server Express)
 - **Postman** (for API testing) *(optional)*
 
