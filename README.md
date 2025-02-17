@@ -58,8 +58,8 @@ POST /api/auth/register
 **Request Body:**
 ```json
 {
-  "username": "testuser",
-  "password": "Test@1234"
+  "username": "admin@example.com",
+  "password": "Admin@123"
 }
 ```
 **Response:**
