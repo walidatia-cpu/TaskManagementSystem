@@ -28,11 +28,6 @@ Ensure you have the following installed:
    }
    ```
 
-2. Apply migrations and update the database:
-
-   ```sh
-   dotnet ef database update
-   ```
 
 ### **4️⃣ Install Dependencies**
 Run the following command to install required dependencies:
