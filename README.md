@@ -1,7 +1,7 @@
 # Task Management System API
 
 ## 📌 Overview
-This is a **Task Management System API** built with **.NET 8**, **JWT Authentication**, and **Entity Framework Core**. It provides user authentication, task management, and secure API endpoints.
+This is a **Task Management System API** built with **.NET 9**, **JWT Authentication**, and **Entity Framework Core**. It provides user authentication, task management, and secure API endpoints.
 
 ---
 
